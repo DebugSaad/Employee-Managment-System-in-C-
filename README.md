@@ -1,0 +1,1 @@
+This is a Employee Managment System Project using C++. This Project uses Queues to enter delete Employee data and 4 sorting method(Quick Sort,Bubble Sort,Selection Sort,Insertion Sort) to sort the employee data alphabatically.
